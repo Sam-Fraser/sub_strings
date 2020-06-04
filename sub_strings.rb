@@ -18,7 +18,8 @@ def substrings(str, arr)
       end
     end
   end
-    
+  
+  #print hash to console and return hash
   p substring_count
 
 end
